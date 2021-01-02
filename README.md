@@ -25,5 +25,3 @@ I'm a <u>system analyst</u> at <a href="https://b2ml.com.br/">@B2ML Sistemas</a>
 <p align="left">
 - VS Code, Figma, NetBeans, Git and others.
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoge&layout=compact)](https://github.com/rodrigoge/github-readme-stats)
