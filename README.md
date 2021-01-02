@@ -3,7 +3,7 @@
 # <b>Hi, i'm Rodrigo Gouveia 🖖</b>
 
 <p align="right">
-<img src="assets/icon.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="assets/icon.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
 </p> 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodrigoge)](https://github.com/rodrigoge)
