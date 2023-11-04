@@ -1,6 +1,6 @@
 ## Hello, people! 👋👨🏽‍💻
 
-My name is Rodrigo Gouveia, i'm a Fullstack Software Developer living in Minas Gerais, and currently work at a Fullstack Developer at [HST Card Technology](https://www.hst.com.br/pt-br/). 
+My name is Rodrigo Gouveia, i'm a Fullstack Software Developer living in Minas Gerais, and i'm enthusiast for new technologies. 
 
 - 🕤 I'm a Software Developer for +3 years ago
 - 👨🏽‍💻 I'm currently working at [HST Card Technology](https://www.hst.com.br/pt-br/)
